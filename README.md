@@ -1,4 +1,4 @@
-## Events
+## AddThis
 
 This component provides default configuration for Social Media sharing using Addthis.
 
