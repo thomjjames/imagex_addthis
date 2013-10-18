@@ -1,5 +1,5 @@
 name = AddThis
-description = Imagex implementation of Addthis field
+description = This component provides default configuration for Social Media sharing using Addthis.
 core = 7.x
 package = ImageX
 version = 7.x-1.0
