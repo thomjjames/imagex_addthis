@@ -5,6 +5,7 @@ package = ImageX
 version = 7.x-1.0
 project = imagex_addthis
 dependencies[] = addthis
+dependencies[] = addthis_displays
 dependencies[] = ctools
 dependencies[] = features
 dependencies[] = strongarm
